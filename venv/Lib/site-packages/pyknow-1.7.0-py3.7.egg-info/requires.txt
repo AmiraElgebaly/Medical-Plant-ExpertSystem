@@ -1,0 +1,2 @@
+frozendict==1.2
+schema==0.6.7
